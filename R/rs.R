@@ -4,7 +4,7 @@
 #' @param nv Numerical Variable
 
 
-rs<-function(n,nv){
+funReg<-function(n,nv){
   X<-c();b<-c()
   for (i in 1:nv){
     b<-cbind(b,sample(seq(2,7),1))
