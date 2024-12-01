@@ -1,9 +1,9 @@
-Package: RegSim
+Package: RGSIM
 Type: Package
 Title: This package is to generate regression dataset
 Version: 0.1.0
 Author: Fadhaa Ali
-Maintainer: The package maintainer <fali197477@gmail.com>
+Maintainer: The package maintainer <alifadhaa16@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: GPL-3
